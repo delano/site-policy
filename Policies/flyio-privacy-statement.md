@@ -68,7 +68,7 @@ We may share User Personal Information if we are involved in a merger, sale, or 
 
 fly.io uses cookies to make interactions with our service easy and meaningful. We use cookies (and similar technologies, like HTML5 localStorage) to keep you logged in, remember your preferences, and provide information for future development of fly.io.
 
-A cookie is a small piece of text that our web server stores on your computer or mobile device, which your browser sends to us when you return to our site. Cookies do not necessarily identify you if you are merely visiting fly.io; however, a cookie may store a unique identifier for each logged in user. The cookies fly.io sets are essential for the operation of the website, or are used for performance or functionality. By using our website, you agree that we can place these types of cookies on your computer or device. If you disable your browser or device’s ability to accept cookies, you will not be able to log in or use GitHub’s services.
+A cookie is a small piece of text that our web server stores on your computer or mobile device, which your browser sends to us when you return to our site. Cookies do not necessarily identify you if you are merely visiting fly.io; however, a cookie may store a unique identifier for each logged in user. The cookies fly.io sets are essential for the operation of the website, or are used for performance or functionality. By using our website, you agree that we can place these types of cookies on your computer or device. If you disable your browser or device’s ability to accept cookies, you will not be able to log in or use fly.io services.
 
 #### Google Analytics
 
